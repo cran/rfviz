@@ -1,0 +1,12 @@
+e64bba924b28c0e0d5f5c807c804e524 *DESCRIPTION
+738382ae4d698fe4284e089b7d15d57e *NAMESPACE
+4ef2259694ad943ff8fe165ed9d7820c *R/data.R
+bf18f70fa330a04e7a2d994a1de7e780 *R/rf_prep.R
+d06c4395f3cec84c88046a92970495c5 *R/rf_viz.R
+78cc145d4ec0904ec23ac7baa686b673 *R/rfviz-package.R
+5a90aa214bc2ec3add448aebeef7a65c *README.md
+695f9ca8b6782130e6ec6d3f12d0eecb *data/glass.rda
+cb3cccc98ae72efee4e7027a9bdead17 *man/glass.Rd
+f798b8ccce9e3977ff2678c4df99303d *man/rf_prep.Rd
+f37515b2824c83c5f9ef48b5558132c9 *man/rf_viz.Rd
+9a57a5ee5f207a7a1dca0bb4fc9359f6 *man/rfviz-package.Rd
